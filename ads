@@ -19,3 +19,8 @@
 0.0.0.0 mediaathay.org.uk
 0.0.0.0 outbrain.com
 0.0.0.0 polluxnetwork.com
+0.0.0.0 weborama.fr
+0.0.0.0 ownpage.fr
+0.0.0.0 script.ownpage.fr
+0.0.0.0 aimfr.solution.weborama.fr
+0.0.0.0 pixel.facebook.com
