@@ -25,6 +25,7 @@
 0.0.0.0 0075-7112-e7eb-f9b9.reporo.net
 0.0.0.0 008.free-counter.co.uk
 0.0.0.0 008.free-counters.co.uk
+0.0.0.0 009blog.com
 0.0.0.0 00fun.com
 0.0.0.0 00fun.com #[Tracking.Cookie]
 0.0.0.0 00game.net
@@ -16043,6 +16044,8 @@
 0.0.0.0 ad.kataweb.it
 0.0.0.0 ad.kau.li
 0.0.0.0 ad.keenspace.com
+0.0.0.0 ad.kissanime.io
+0.0.0.0 ad.kisscartoon.io
 0.0.0.0 ad.kixer.com
 0.0.0.0 ad.koreadaily.com
 0.0.0.0 ad.kr.doubleclick.net
@@ -25737,7 +25740,6 @@
 0.0.0.0 arriere.science
 0.0.0.0 arrowtec.go2cloud.org
 0.0.0.0 arroyomedia.go2cloud.org
-0.0.0.0 ars-decoris.pl
 0.0.0.0 ars.couphole.com
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 arsenalforum.cekuj.net
@@ -37440,8 +37442,10 @@
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34obr29voew8l.cloudfront.net
 0.0.0.0 d34rdvn2ky3gnm.cloudfront.net
+0.0.0.0 d3591q3cwzbtxd.cloudfront.net
 0.0.0.0 d35gxjm3e9wg7v.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
+0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d37h3y471q0lt2.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
@@ -48142,6 +48146,7 @@
 0.0.0.0 hvo1000.com
 0.0.0.0 hvqtw.voluumtrk.com
 0.0.0.0 hvxca.voluumtrk.com
+0.0.0.0 hw-ads.datpiff.com
 0.0.0.0 hw1vb.voluumtrk.com
 0.0.0.0 hwcdn.reporo.net
 0.0.0.0 hwuhk.voluumtrk.com
@@ -53856,6 +53861,7 @@
 0.0.0.0 maggie-wallace.us
 0.0.0.0 magic-deals.us
 0.0.0.0 magicanfy.com
+0.0.0.0 magicbullettheory.com
 0.0.0.0 magiccheats.com
 0.0.0.0 magicfuture.go2cloud.org
 0.0.0.0 magicmail.co.nz
@@ -59975,7 +59981,6 @@
 0.0.0.0 panzermedia.go2cloud.org
 0.0.0.0 pap-partner.flirtfair.de
 0.0.0.0 pap.zalando.de
-0.0.0.0 papamamandoudouetmoi.com
 0.0.0.0 papapearsagacheats.com
 0.0.0.0 papapkz.myvnc.com
 0.0.0.0 papayamobile.com
@@ -61269,6 +61274,7 @@
 0.0.0.0 pmads.valuead.com
 0.0.0.0 pmc-d.openx.net
 0.0.0.0 pmclicks.com
+0.0.0.0 pmd-vp-aka.canal-plus.com
 0.0.0.0 pmediatrack.com
 0.0.0.0 pmelon.com
 0.0.0.0 pmetrics.getclicky.com
@@ -70485,7 +70491,6 @@
 0.0.0.0 telekom01.webtrekk.net
 0.0.0.0 telekom02.webtrekk.net
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.appex.bing.net #:443
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
@@ -79164,7 +79169,6 @@
 0.0.0.0 watson.ppe.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
-0.0.0.0 watson.telemetry.microsoft.com.nsatc.net ####
 0.0.0.0 wau.tynt.com
 0.0.0.0 wavelinkswing.pingpong-shop.info
 0.0.0.0 waxhack.com
@@ -88127,7 +88131,7 @@
 0.0.0.0 youradexchange.com
 0.0.0.0 youradslab.com
 0.0.0.0 yourarticle.pl
-0.0.0.0 youraticles.pl #/2#
+0.0.0.0 youraticles.pl
 0.0.0.0 yourautoupdatedinfo.xyz
 0.0.0.0 yourbestway.cn
 0.0.0.0 yourblenderparts.ru
@@ -88402,7 +88406,7 @@
 0.0.0.0 zapadserver1.com
 0.0.0.0 zapisany.pl
 0.0.0.0 zapisujemy24.pl
-0.0.0.0 zapiszto.pl #/2
+0.0.0.0 zapiszto.pl
 0.0.0.0 zapto.org
 0.0.0.0 zara11.com
 0.0.0.0 zarabiajpieniadze.org
