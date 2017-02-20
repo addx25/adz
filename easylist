@@ -24730,6 +24730,7 @@
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.slashdotmedia.com #[Piwik.Analytics]
+0.0.0.0 analytics.snidigital.com
 0.0.0.0 analytics.socialbakers.com
 0.0.0.0 analytics.solidbau.at
 0.0.0.0 analytics.sonymusic.com
@@ -24798,6 +24799,7 @@
 0.0.0.0 analyze.yahooapis.com
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer.liveads.no
+0.0.0.0 analyzer.livere.com
 0.0.0.0 analyzer.pasta.dianxinos.com
 0.0.0.0 analyzer.qmerce.com
 0.0.0.0 analyzer2.fc2.com
@@ -25783,6 +25785,7 @@
 0.0.0.0 as.air2s.com
 0.0.0.0 as.autoforums.com
 0.0.0.0 as.bankrate.com
+0.0.0.0 as.base.de
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.casalemedia.com #[Tracking.Cookie]
 0.0.0.0 as.chango.com
@@ -37234,6 +37237,7 @@
 0.0.0.0 d1afet533lf7zs.cloudfront.net
 0.0.0.0 d1az0m14mjvs40.cloudfront.net
 0.0.0.0 d1bevsqehy4npt.cloudfront.net
+0.0.0.0 d1boik8k1ctool.cloudfront.net
 0.0.0.0 d1byvlfiet2h9q.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1cerpgff739r9.cloudfront.net
@@ -38050,6 +38054,7 @@
 0.0.0.0 de1.pl
 0.0.0.0 de17a.com
 0.0.0.0 de2.ipinkvisualpass.com
+0.0.0.0 de3hzpms0kfq9.cloudfront.net
 0.0.0.0 de5xhnpt1l1mn.cloudfront.net
 0.0.0.0 de8of677fyt0b.cloudfront.net
 0.0.0.0 deadwalking.tv
@@ -38459,6 +38464,7 @@
 0.0.0.0 dhtml.pornravage.com
 0.0.0.0 dhwe4.greatnewonlinebonus.xyz
 0.0.0.0 dhy77jsjr4g76.cloudfront.net
+0.0.0.0 dhzws7l31cq8p.cloudfront.net
 0.0.0.0 di-banner-se.c.richmetrics.com
 0.0.0.0 di-se.c.richmetrics.com
 0.0.0.0 di1.shopping.com
@@ -45602,6 +45608,7 @@
 0.0.0.0 glassesonline-com-sg.b.appier.net
 0.0.0.0 glassesonline-com-tw.b.appier.net
 0.0.0.0 glassgrip.biz
+0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 glaswall.online
 0.0.0.0 glavrich.com
 0.0.0.0 glb.adtechus.com
@@ -48001,6 +48008,7 @@
 0.0.0.0 hs4rs.voluumtrk.com
 0.0.0.0 hsaki.voluumtrk.com
 0.0.0.0 hsb-canada.com
+0.0.0.0 hsbarbershop.co.uk
 0.0.0.0 hsbc.tt.omtrdc.net
 0.0.0.0 hsbconline.ca
 0.0.0.0 hsmsxx.com
@@ -48146,7 +48154,6 @@
 0.0.0.0 hvo1000.com
 0.0.0.0 hvqtw.voluumtrk.com
 0.0.0.0 hvxca.voluumtrk.com
-0.0.0.0 hw-ads.datpiff.com
 0.0.0.0 hw1vb.voluumtrk.com
 0.0.0.0 hwcdn.reporo.net
 0.0.0.0 hwuhk.voluumtrk.com
@@ -49963,6 +49970,7 @@
 0.0.0.0 irpopup.ir
 0.0.0.0 irs01.net
 0.0.0.0 is-apple.com
+0.0.0.0 is.base.de
 0.0.0.0 is.casalemedia.com
 0.0.0.0 is.luxup.ru
 0.0.0.0 is.spring-tns.net
@@ -52772,6 +52780,7 @@
 0.0.0.0 log.invodo.com
 0.0.0.0 log.ioam.de
 0.0.0.0 log.itworld.com
+0.0.0.0 log.kcisa.kr
 0.0.0.0 log.kibboko.com
 0.0.0.0 log.kieskeurig.nl
 0.0.0.0 log.kukuplay.com
@@ -52986,6 +52995,7 @@
 0.0.0.0 logp8.xiti.com
 0.0.0.0 logp9.xiti.com
 0.0.0.0 logs-01.loggly.com
+0.0.0.0 logs-qos.tf1.fr
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.aiya.com.cn
 0.0.0.0 logs.cafewell.com
@@ -56421,6 +56431,7 @@
 0.0.0.0 mt94.mtree.com
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
+0.0.0.0 mtc.nhk.or.jp
 0.0.0.0 mtccsun.imtech.ernet.in
 0.0.0.0 mtcount.channeladvisor.com
 0.0.0.0 mtg.tns-cs.net
@@ -60784,6 +60795,7 @@
 0.0.0.0 pipe-collect.ebu.io
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pipeline.realtime.active.com
+0.0.0.0 pipki.r.worldssl.net
 0.0.0.0 piranhacheats.com
 0.0.0.0 piranho.com
 0.0.0.0 piranho.de
@@ -63612,6 +63624,7 @@
 0.0.0.0 reelvidz.com
 0.0.0.0 refer.ccbill.com
 0.0.0.0 refer.ccbill.com #[Tracking.Cookie][Google.Diagnostic]
+0.0.0.0 refer.evine.com
 0.0.0.0 refer.webhostingbuzz.com
 0.0.0.0 refer1.outster.com
 0.0.0.0 refer100.outster.com
@@ -71987,6 +72000,7 @@
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.theviralconcept.com
 0.0.0.0 track.thewebgemnetwork.com
+0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.todayreward.net
 0.0.0.0 track.tooplay.com
 0.0.0.0 track.topromotion.net
@@ -72125,6 +72139,7 @@
 0.0.0.0 tracker.lgcontent.cl
 0.0.0.0 tracker.live.tudou.com
 0.0.0.0 tracker.loadingfast.com
+0.0.0.0 tracker.lolalytics.com
 0.0.0.0 tracker.lomadee.com
 0.0.0.0 tracker.mailvalue.net
 0.0.0.0 tracker.marinsm.com
@@ -74590,6 +74605,7 @@
 0.0.0.0 very-koi.com
 0.0.0.0 veryblomar.com
 0.0.0.0 veryboys.com
+0.0.0.0 veta.naver.com
 0.0.0.0 vette-porno.nl
 0.0.0.0 vexplay.com
 0.0.0.0 vezetmne.ru
