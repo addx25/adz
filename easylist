@@ -38161,6 +38161,7 @@
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d37h3y471q0lt2.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
+0.0.0.0 d37s9vd5t6mov7.cloudfront.net
 0.0.0.0 d38pxm3dmrdu6d.cloudfront.net
 0.0.0.0 d38r21vtgndgb1.cloudfront.net
 0.0.0.0 d396ihyrqc81w.cloudfront.net
@@ -49189,6 +49190,7 @@
 0.0.0.0 horseimg.com
 0.0.0.0 hortensjazfu.ovh.org
 0.0.0.0 hos1.cnzz.com
+0.0.0.0 hosmerhargill.com
 0.0.0.0 hosse-neuenburg.de
 0.0.0.0 host-it.co.uk
 0.0.0.0 host-protection.com
@@ -58888,6 +58890,7 @@
 0.0.0.0 nagios.adition.com
 0.0.0.0 nagranie-galeria.ujm.pl
 0.0.0.0 nagroportal.pl
+0.0.0.0 nahuntaveradale.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 naiadsystems.com.invalid
 0.0.0.0 naijahacking.tk
@@ -66041,6 +66044,7 @@
 0.0.0.0 reg20.ubermedia.com
 0.0.0.0 regalcigs.go2cloud.org
 0.0.0.0 regalhacks.com
+0.0.0.0 reganspringhope.com
 0.0.0.0 regclean.software-phile.com
 0.0.0.0 regcure.software-phile.com
 0.0.0.0 regdefense.com
@@ -71487,7 +71491,7 @@
 0.0.0.0 stats.ign.com
 0.0.0.0 stats.ilius.net
 0.0.0.0 stats.ilsemedia.nl
-0.0.0.0 stats.ilsemedia.nl[server down?]
+0.0.0.0 stats.ilsemedia.nl #[server down?]
 0.0.0.0 stats.immense.net
 0.0.0.0 stats.immense.net #[Piwik.Analytics]
 0.0.0.0 stats.inciteminds.com
